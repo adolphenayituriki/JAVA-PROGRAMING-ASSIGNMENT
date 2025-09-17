@@ -32,15 +32,15 @@ public class BillsCulcutate {
 	    	 FinalAmmount = priceCal-TotalPrice*(5)/100;
 	    	 System.out.println("| Dear "+customer + " Discount allowed to you !!");
 	    	 System.out.println("|  Item: "+item);
-	    	 System.out.println("| Quantiry purchased: "+quantity+ "Kg");
-	    	 System.out.println("| Price per Unity: "+price + "Rfw");
-	    	 System.out.println("| Sub totals: "+priceCal + "Rfw" );
-	    	 System.out.println("| Grand total before discount: "+priceCal + "Rfw");
-	    	 System.out.println("| Discount "+Discount + "Rfw");
-	    	 System.out.println("| Final ammount payable: "+FinalAmmount + "Rfw");
+	    	 System.out.println("| Quantiry purchased: "+quantity);
+	    	 System.out.println("| Price per Unity: "+price);
+	    	 System.out.println("| Sub totals: "+priceCal );
+	    	 System.out.println("| Grand total before discount: "+priceCal);
+	    	 System.out.println("| Discount "+Discount);
+	    	 System.out.println("| Final ammount payable: "+FinalAmmount);
 	    	 System.out.println("| ----------------------------");
 	    	 System.out.println("| Customer Name: "+ customer);
-	    	 System.out.println("| Supermarket Billing System Signature|| xxx");
+	    	 System.out.println("Supermarket Billing System Signature|| xxx");
 	    	 
 	    	 
 	    	 
@@ -48,12 +48,12 @@ public class BillsCulcutate {
 	     else {
 	    	 System.out.println("| NO DISCOUNT FOR YOU! ");
 	    	 System.out.println("| Item: "+item);
-	    	 System.out.println("| Quantiry purchased: "+quantity +"Kg");
-	    	 System.out.println("| Price per Unity: "+price+ "Rfw");
+	    	 System.out.println("| Quantiry purchased: "+quantity);
+	    	 System.out.println("| Price per Unity: "+price);
 	    	 System.out.println("| Sub totals: "+priceCal );
-	    	 System.out.println("| Grand total before discount: "+priceCal+ "Rfw");
+	    	 System.out.println("| Grand total before discount: "+priceCal);
 	    	 System.out.println("| Discount: 0 ");
-	    	 System.out.println("| Final ammount payable: "+priceCal + "Rfw");
+	    	 System.out.println("| Final ammount payable: "+priceCal);
 	    	 System.out.println("| ----------------------------");
 	    	 System.out.println("| Customer Name: "+ customer);
 	    	 System.out.println("| Supermarket Billing System Signature|| xxx");
@@ -64,4 +64,3 @@ public class BillsCulcutate {
 	}
 
 }
-
