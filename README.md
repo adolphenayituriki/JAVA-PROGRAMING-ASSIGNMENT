@@ -1,4 +1,4 @@
-Kik**OOP WITH JAVA ASSIGNMENTS**
+**OOP WITH JAVA ASSIGNMENTS**
 
 This is the assignments of object oriented programming
 with java, given to us to enhance our
@@ -11,3 +11,4 @@ programing skills.
 `````````````````````````````````
 
 **3. ASSIGNMENT 3 22 sept 2025 **
+
