@@ -1,4 +1,8 @@
-**OOP WITH JAVA ASSIGNMENTS**
+**OOP WITH JAVA ASSIGNMENTS** 
+
+**NAMES:    NAYITURIKI Adolphe.**     
+Reg number: **223010709**
+_______________________________________________________________
 
 This is the assignments of object oriented programming
 with java, given to us to enhance our
