@@ -23,9 +23,9 @@ Here is direct link to access assignment 1.
 
 LINK https: (//github.com/adolphenayituriki/JAVA-PROGRAMING-ASSIGNMENT/tree/main/ASSIGNMENT_17%20SEPT%202025%20JAVA%20PROGRAMMING)
 
-**2. ASSIGNMENT 2 19 sept 2025
+**2. ASSIGNMENT 2 19 sept 2025**
 
-**3. ASSIGNMENT 3 22 sept 2025 *. 
+**3. ASSIGNMENT 3 22 sept 2025**. 
 
-**4. 2D SHAPES ASSIGNMENT 23 sept 2025
+**4. 2D SHAPES ASSIGNMENT 23 sept 2025**
 
