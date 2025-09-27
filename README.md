@@ -8,7 +8,7 @@ This is the assignments of object oriented programming
 with java, given to us to enhance our
 programing skills.
 
-![build]1. ASSIGNMENT 1 17 sept 2025**
+**1. ASSIGNMENT 1 17 sept 2025**
 
 ##It was about to create a sytsem to calcurate:
 
